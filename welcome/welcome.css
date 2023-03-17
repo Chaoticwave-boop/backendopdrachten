@@ -1,0 +1,22 @@
+
+div {
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin: 5px;
+    left: 100px;
+}
+
+label {
+    padding-right: 5px;
+    width: 10%;
+}
+
+#submit {
+    position: relative;
+    left: 100px;
+}
+
+input{
+    width: 10%;
+}
